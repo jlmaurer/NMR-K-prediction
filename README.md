@@ -2,7 +2,7 @@
 This repo consists of code to find parameter values for models relating NMR measurements to hydraulic conductivity K. The models are given in Maurer and Knight, 2016. 
 
 ## Data
-The data files are in the 'Aggregated_Data' folder, and have columns: depth, T2ML, porosity, permeability, and optionally other measurements like Sum-of-Echoes (SOE). 
+The data files are in the 'Aggregated_data' folder, and have columns: depth, T2ML, porosity, permeability, and optionally other measurements like Sum-of-Echoes (SOE). 
 
 ## Methods
 Codes are provided for running grid search, bootstrap, MCMC, and direct solves for the parameters of the models. 
